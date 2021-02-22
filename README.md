@@ -1,5 +1,5 @@
 # Credit Card Transaction Fraud Detection
-A Program that detects Fraud Credit Card Transactions using CNN
+A Program that detects Fraud Credit Card Transactions using Machine Learning
 
 # Requirements
 * Tensorflow
@@ -12,8 +12,5 @@ A Program that detects Fraud Credit Card Transactions using CNN
 # How to use
 * Download this repository
 * Download creditcard.csv off of https://www.kaggle.com/mlg-ulb/creditcardfraud
-* Change directory to where the file is located
+* Move creditcard.csv to the downloaded repo's directory
 * Run creditcardfrauddetection.py
-
-# Alternate Usage
-Use the .ipynb in Google Colaboratory or Jupyter Notebook/Lab
